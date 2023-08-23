@@ -3,6 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Ejecutar npm install para la instalacion de las dependencias al igual que tener un emulador movil instalado antes de ejecutar npx react-native run-android, npx react-native run-ios
 
 ## Step 1: Start the Metro Server
 
